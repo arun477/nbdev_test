@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://arun477.github.io/nbdev_test"
+  description: "nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/arun477/nbdev_test"
