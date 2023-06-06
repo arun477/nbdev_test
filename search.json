@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "from fastcore.test import *\n\n\nsource\n\nsay_hello\n\n say_hello (to)\n\n\nsay_hello('arun')\n\n'Hello arun!!!'\n\n\n\nassert say_hello('arun') == \"Hello arun!!!\"\n\n\ntest_eq(say_hello('arun'), \"Hello arun!!!\")"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_test",
+    "section": "How to use",
+    "text": "How to use\nnbdev is awesome!!!\n\n1+1\n\n2"
+  }
+]
